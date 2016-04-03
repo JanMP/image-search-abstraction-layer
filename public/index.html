@@ -17,12 +17,13 @@
       <div class="ui segment">
         <h3 class="ui header">Search for Images:</h3>
         <code><span class="path">[url of this page should be here]</span>search/:serchterm</code>
-        <p>This will return a JSON Object that contains an array of objects.</p>
+        <p>This will return a JSON Object that contains an array of objects. You can provide an offset
+          (for pagination) by appending e.g. <code>?offset=10</code></p>
       </div>
       <div class="ui segment">
         <h3 class="ui header">List previous search terms:</h3>
           <code><span class="path">[url of this page should be here]</span>list</code>
-        <p>Get a list of the last couple of searches</p>
+        <p>Get a list of the 10 most recent search requests.</p>
       </div>
     </div>
     <script>
