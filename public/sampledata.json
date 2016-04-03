@@ -1,0 +1,228 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "nextPage": [{
+            "title": "Google Custom Search - Niklas Luhmann",
+            "totalResults": "2120000",
+            "searchTerms": "Niklas Luhmann",
+            "count": 10,
+            "startIndex": 11,
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "007414649059824118455:2qstsvfxe1o",
+            "searchType": "image"
+        }
+        ],
+        "request": [{
+            "title": "Google Custom Search - Niklas Luhmann",
+            "totalResults": "2120000",
+            "searchTerms": "Niklas Luhmann",
+            "count": 10,
+            "startIndex": 1,
+            "inputEncoding": "utf8",
+            "outputEncoding": "utf8",
+            "safe": "off",
+            "cx": "007414649059824118455:2qstsvfxe1o",
+            "searchType": "image"
+        }
+        ]
+    },
+    "context": {
+        "title": "janmpimagesearch"
+    },
+    "searchInformation": {
+        "searchTime": 0.35781,
+        "formattedSearchTime": "0.36",
+        "totalResults": "2120000",
+        "formattedTotalResults": "2,120,000"
+    },
+    "items": [{
+        "kind": "customsearch#result",
+        "title": "Niklas Luhmann - Wikipedia, the free encyclopedia",
+        "htmlTitle": "<b>Niklas Luhmann</b> - Wikipedia, the free encyclopedia",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/65/Luhmann.png",
+        "displayLink": "en.wikipedia.org",
+        "snippet": "Niklas Luhmann",
+        "htmlSnippet": "<b>Niklas Luhmann</b>",
+        "mime": "image/png",
+        "fileFormat": "Image Document",
+        "image": {
+            "contextLink": "https://en.wikipedia.org/wiki/Niklas_Luhmann",
+            "height": 1772,
+            "width": 1772,
+            "byteSize": 229302,
+            "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-gtIX7VMLfsAYikN0cxRZBRpshDn66HrRKe4sm0-W_TMZ0rvwLaqC486",
+            "thumbnailHeight": 150,
+            "thumbnailWidth": 150
+        }
+    }, {
+        "kind": "customsearch#result",
+        "title": "Niklas Luhmann (December 8, 1927 – November 6, 1998) was a German ...",
+        "htmlTitle": "<b>Niklas Luhmann</b> (December 8, 1927 – November 6, 1998) was a German <b>...</b>",
+        "link": "http://sistemassociales.com/wp-content/uploads/2015/01/luhmann121312.jpg",
+        "displayLink": "www.pinterest.com",
+        "snippet": "Found on sistemassociales.com",
+        "htmlSnippet": "Found on sistemassociales.com",
+        "mime": "image/jpeg",
+        "image": {
+            "contextLink": "https://www.pinterest.com/pin/300052393900899390/",
+            "height": 919,
+            "width": 1400,
+            "byteSize": 269270,
+            "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzwfrRP188z3nTQoLZ0XQ9BpJzPYnpNW9hJW2Elh0wOOys9mA-8yQ-2Ge8",
+            "thumbnailHeight": 98,
+            "thumbnailWidth": 150
+        }
+    }, {
+        "kind": "customsearch#result",
+        "title": "Niklas Luhmann - Geography",
+        "htmlTitle": "<b>Niklas Luhmann</b> - Geography",
+        "link": "http://geography.ruhosting.nl/geography/images/1/14/Niklas_Luhmann.jpg",
+        "displayLink": "geography.ruhosting.nl",
+        "snippet": "Niklas Luhmann[1]",
+        "htmlSnippet": "<b>Niklas Luhmann</b>[1]",
+        "mime": "image/jpeg",
+        "image": {
+            "contextLink": "http://geography.ruhosting.nl/geography/index.php?title=Niklas_Luhmann",
+            "height": 400,
+            "width": 377,
+            "byteSize": 37009,
+            "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScwjk40kj9K7fuS4zMXkObjy9RF6LR39N3a1Em0Cbofslk8Tswj1sJERk",
+            "thumbnailHeight": 124,
+            "thumbnailWidth": 117
+        }
+    }, {
+        "kind": "customsearch#result",
+        "title": "Niklas Luhmann - Alchetron, The Free Social Encyclopedia",
+        "htmlTitle": "<b>Niklas Luhmann</b> - Alchetron, The Free Social Encyclopedia",
+        "link": "http://multimedia.pol.dk/archive/00629/Niklas_Luhmann_629995a.jpg",
+        "displayLink": "alchetron.com",
+        "snippet": "Niklas Luhmann Quotes by",
+        "htmlSnippet": "<b>Niklas Luhmann</b> Quotes by",
+        "mime": "image/jpeg",
+        "image": {
+            "contextLink": "http://alchetron.com/Niklas-Luhmann-801368-W",
+            "height": 1086,
+            "width": 1500,
+            "byteSize": 1278781,
+            "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQN_XmILyZnAL40kPMsZ9fGnjmY9Isn0w6fmqtb-MZuZ-2bvxG7mfMg94gy",
+            "thumbnailHeight": 109,
+            "thumbnailWidth": 150
+        }
+    }, {
+        "kind": "customsearch#result",
+        "title": "Reading Luhmann | Kritikos",
+        "htmlTitle": "Reading <b>Luhmann</b> | Kritikos",
+        "link": "https://blogs.lshtm.ac.uk/kritikos/files/2015/10/Luhmann.jpg",
+        "displayLink": "blogs.lshtm.ac.uk",
+        "snippet": "Luhmann",
+        "htmlSnippet": "<b>Luhmann</b>",
+        "mime": "image/jpeg",
+        "image": {
+            "contextLink": "https://blogs.lshtm.ac.uk/kritikos/social-theory-book-club/reading-lumann/",
+            "height": 200,
+            "width": 194,
+            "byteSize": 10809,
+            "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZcsY7dpF1jmZaKhM_Dm03yOeXaDRsltNBOxIV7xduDY_Rmg_LIQSlaGk",
+            "thumbnailHeight": 104,
+            "thumbnailWidth": 101
+        }
+    }, {
+        "kind": "customsearch#result",
+        "title": "QUOTES BY NIKLAS LUHMANN | A-Z Quotes",
+        "htmlTitle": "QUOTES BY <b>NIKLAS LUHMANN</b> | A-Z Quotes",
+        "link": "http://www.azquotes.com/picture-quotes/quote-humans-cannot-communicate-not-even-their-brains-can-communicate-not-even-their-conscious-niklas-luhmann-70-33-96.jpg",
+        "displayLink": "www.azquotes.com",
+        "snippet": "Humans cannot communicate",
+        "htmlSnippet": "Humans cannot communicate",
+        "mime": "image/jpeg",
+        "image": {
+            "contextLink": "http://www.azquotes.com/author/42921-Niklas_Luhmann",
+            "height": 400,
+            "width": 850,
+            "byteSize": 74797,
+            "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRuU7ElDJC52-M5YUWI8bYsILWsZfIxDjDpLYgckK80FR00FREoUktLimG",
+            "thumbnailHeight": 68,
+            "thumbnailWidth": 145
+        }
+    }, {
+        "kind": "customsearch#result",
+        "title": "El teorema de la doble contingencia: Configurando una aproximación ...",
+        "htmlTitle": "El teorema de la doble contingencia: Configurando una aproximación <b>...</b>",
+        "link": "http://sistemassociales.com/wp-content/uploads/2013/11/00542327_jbh.jpg",
+        "displayLink": "sistemassociales.com",
+        "snippet": "Niklas Luhmann",
+        "htmlSnippet": "<b>Niklas Luhmann</b>",
+        "mime": "image/jpeg",
+        "image": {
+            "contextLink": "http://sistemassociales.com/doble-contingencia/",
+            "height": 1400,
+            "width": 917,
+            "byteSize": 238759,
+            "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQt664A8nKuvFZtsKk8NdO2NyTjEdgTlOQry5Gv4F0JCOk9FPt6-rAFR0",
+            "thumbnailHeight": 150,
+            "thumbnailWidth": 98
+        }
+    }, {
+        "kind": "customsearch#result",
+        "title": "Social Systems Theory 2012 #2",
+        "htmlTitle": "Social Systems Theory 2012 #2",
+        "link": "http://image.slidesharecdn.com/socialsystems2012-2-slideshare-120418022900-phpapp02/95/social-systems-theory-2012-2-2-728.jpg?cb=1334716422",
+        "displayLink": "www.slideshare.net",
+        "snippet": "Niklas Luhmann",
+        "htmlSnippet": "<b>Niklas Luhmann</b>",
+        "mime": "image/jpeg",
+        "image": {
+            "contextLink": "http://www.slideshare.net/takashiiba/social-systems-theory-2012-2",
+            "height": 546,
+            "width": 728,
+            "byteSize": 168694,
+            "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-XTbZHJKcLCf18L0M25qrdAe8xxw8HJlkk1z3fR0Mc-StBSqFuqUiyUg",
+            "thumbnailHeight": 106,
+            "thumbnailWidth": 141
+        }
+    }, {
+        "kind": "customsearch#result",
+        "title": "Quotes by Niklas Luhmann @ Like Success",
+        "htmlTitle": "Quotes by <b>Niklas Luhmann</b> @ Like Success",
+        "link": "http://stars-forever.com/d/8480-3/00023249_jbh.jpg",
+        "displayLink": "likesuccess.com",
+        "snippet": "NIKLAS LUHMANN image",
+        "htmlSnippet": "<b>NIKLAS LUHMANN</b> image",
+        "mime": "image/jpeg",
+        "image": {
+            "contextLink": "http://likesuccess.com/author/niklas-luhmann",
+            "height": 1400,
+            "width": 947,
+            "byteSize": 203862,
+            "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdmRGB73OAnwlTld_1E6hgeIx3iA5TjJZMrZ1LUqaTOjFKER3jydTIeEKu",
+            "thumbnailHeight": 150,
+            "thumbnailWidth": 101
+        }
+    }, {
+        "kind": "customsearch#result",
+        "title": "Colección Niklas Luhmann (1)",
+        "htmlTitle": "Colección <b>Niklas Luhmann</b> (1)",
+        "link": "http://piwigo.bancodelecturas.net/upload/2015/05/10/20150510194124-342a1b0b.jpg",
+        "displayLink": "bancodelecturas.net",
+        "snippet": "Vida. Niklas Luhmann",
+        "htmlSnippet": "Vida. <b>Niklas Luhmann</b>",
+        "mime": "image/jpeg",
+        "image": {
+            "contextLink": "http://bancodelecturas.net/new/index.php?topic=116.0",
+            "height": 370,
+            "width": 493,
+            "byteSize": 61023,
+            "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLvbe4j05z4Pnh1CG6I0EGi9LtiM0G6tTlp4R8AzdORR0KgkVDgSY6GmA",
+            "thumbnailHeight": 98,
+            "thumbnailWidth": 130
+        }
+    }
+    ]
+}
+
